@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+$(TARGET_CLN)	Makefile	/^$(TARGET_CLN):$(TARGET_CLN).o$/;"	t
+$(TARGET_SRV)	Makefile	/^$(TARGET_SRV):$(TARGET_SRV).o$/;"	t
+%.o	Makefile	/^%.o:%.c$/;"	t
+CC	Makefile	/^CC=gcc$/;"	m
+LDFLAGS	Makefile	/^LDFLAGS=$/;"	m
+TARGET_CLN	Makefile	/^TARGET_CLN=hello_client$/;"	m
+TARGET_SRV	Makefile	/^TARGET_SRV=hello_server$/;"	m
+all	Makefile	/^all : $(TARGET_SRV) $(TARGET_CLN)$/;"	t
+clean	Makefile	/^clean:$/;"	t
+error_handling	hello_client.c	/^void error_handling(char* message)$/;"	f	typeref:typename:void
+error_handling	hello_server.c	/^void error_handling(char* message)$/;"	f	typeref:typename:void
+main	hello_client.c	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	hello_server.c	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
