@@ -11,6 +11,9 @@
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
+### 프로젝트
+[절차지향 언어인 C를 활용한 GrayScale Image Processing](https://github.com/Seongwoo-Lee97/Image_Processing_Project_Intel_04/blob/fd3cf4b9fbb5132edd8f759c862ba9a99df41667/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.c)
+
 
 
 ### ⭐ 객체지향 프로그래밍 (2024.03.19 ~ 04.05)
