@@ -4,9 +4,9 @@
 
 ## ⭐ 절차지향 프로그래밍 (2024.03.05 ~ 03.19)
 ### ✅ 교육 정리
-|Content|Git|Notion|
+|Content|Git|Day-Notion|
 |------|---|---|
-|테스트1|테스트2|테스트3|
+|HW, SW 개념 학습|X|[03/06](https://mixed-makeup-d9d.notion.site/C-C-Python-8789db5651274022ad86fdcdcf4909ed?pvs=4)|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
