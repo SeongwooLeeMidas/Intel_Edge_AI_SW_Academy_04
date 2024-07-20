@@ -2,6 +2,7 @@
 
 ### [인텔 AI SW 아카데미 4기](https://www.kccistc.net/education/professionalSkillEduDetail.do?rootMenuId=3916&menuId=3919&gaebalwon_cd=09000&gwajeong_no=M2024005) 과정을 정리합니다.
 
+
 ## ⭐ 절차지향 프로그래밍 (2024.03.05 ~ 03.19)
 ### ✅ 교육 정리
 |Content|Git|Day-Notion|
