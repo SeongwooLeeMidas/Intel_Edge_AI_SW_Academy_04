@@ -40,8 +40,7 @@
 - 객체지향 언어인 파이썬 기반으로 제작한 [Grayscale Image Processing](https://github.com/SeongwooLeeMidas/Image_Processing_Project_Intel_04/blob/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1.0_%EC%8A%A4%ED%95%80%EC%98%A4%ED%94%84_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.py)
 - OpenCV 없이 C 언어 기반으로 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Grayscale을 활용해 다양한 알고리즘 구현
 - 3월 22일 스핀오프 버전으로 제출, 발표 미실시
-
-
+---
 - 객체지향 언어인 C++ 기반으로 제작한 [Color Image Processing](https://github.com/SeongwooLeeMidas/Image_Processing_Project_Intel_04/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver2_%EC%BD%94%EB%93%9C)
 - OpenCV 없이 C++ 언어 기반으로 MFC를 사용해 GUI 기반 응용 프로그램을 구축하고, 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Color Image Processing을 활용해 다양한 알고리즘을 구현
 - 4월 4일 2.0 버전으로 제출, 발표 실시
