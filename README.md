@@ -23,6 +23,25 @@
 
 
 ### ⭐ 객체지향 프로그래밍 (2024.03.19 ~ 04.05)
+### ✅ 교육 정리
+|Content|Git|Day-Notion|
+|------|---|---|
+|파이썬 개요, 합 계산|X|[3월 20일](https://www.notion.so/3-20-49a8cdfc06d84eeab44d45d24545686e?pvs=4)
+|파일 열기, 닫기, 쓰기|X|[3월 21일](https://www.notion.so/3-21-58cd3b5724d444ba8a216958feeb065d?pvs=4)
+|C++ 클래스, 생성자|X|[3월 25일](https://www.notion.so/3-25-C-f3bc02eadb5e4cbfae7d0c5f019de1b0?pvs=4)
+|MFC 제작|X|[3월 26일](https://www.notion.so/3-26-MFC-4297da8e73864e7cbba1194b9be0e261?pvs=4)
+|C++ 화소점 처리|X|[3월 27일](https://www.notion.so/3-27-C-71e78e560e854b44bd4dd64c8657441b?pvs=4)
+|Color Image Processing 제작|X|[4월 1일](https://www.notion.so/4-1-Color-Image-Processing-1e7e9213d542458383b4072ab3039fab?pvs=4)
+
+### ✅ 프로젝트
+- 객체지향 언어인 파이썬 기반으로 제작한 (Grayscale Image Processing)[https://github.com/SeongwooLeeMidas/Image_Processing_Project_Intel_04/blob/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1.0_%EC%8A%A4%ED%95%80%EC%98%A4%ED%94%84_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.py)
+- OpenCV 없이 C 언어 기반으로 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Grayscale을 활용해 다양한 알고리즘 구현
+- 3월 22일 스핀오프 버전으로 제출, 발표 미실시
+
+
+- 객체지향 언어인 C++ 기반으로 제작한 (Color Image Processing)[https://github.com/SeongwooLeeMidas/Image_Processing_Project_Intel_04/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver2_%EC%BD%94%EB%93%9C]
+- OpenCV 없이 C++ 언어 기반으로 MFC를 사용해 GUI 기반 응용 프로그램을 구축하고, 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Color Image Processing을 활용해 다양한 알고리즘을 구현
+- 4월 4일 2.0 버전으로 제출, 발표 실시
 
 ### ⭐ 펌웨어 프로그래밍 (2024.04.05 ~ 04.18)
 
