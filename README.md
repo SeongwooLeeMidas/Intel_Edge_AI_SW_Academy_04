@@ -17,9 +17,10 @@
 |히스토그램 처리|X|[3월 15일](https://www.notion.so/3-15-6b3dbb5c4ca8433283b5574766ec2c16?pvs=4)
 |화소 영역 처리|X|[3월 18일](https://www.notion.so/3-18-c3e0eb1c883b408e811a8e475a08296b?pvs=4)
 
-### ✅ 프로젝트(3월 19일 발표)
+### ✅ 프로젝트
 - 절차지향 언어인 C 기반으로 제작한 [GrayScale Image Processing](https://github.com/Seongwoo-Lee97/Image_Processing_Project_Intel_04/blob/fd3cf4b9fbb5132edd8f759c862ba9a99df41667/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.c)
 - OpenCV 없이 C 언어 기반으로 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Grayscale을 활용해 다양한 알고리즘 구현
+- 3월 19일 발표 실시
 
 
 ---
