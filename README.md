@@ -62,9 +62,9 @@
 |------|---|---|
 |라즈베리파이 설치| |[7월 8일](https://www.notion.so/0708-1-4edf04650d02401dbe605e1b3134951b?pvs=4)
 |STM32 UART 학습| |[7월 9일](https://www.notion.so/0710-STM-Sound-f4c5e413cfbf495c9e196142dc33d62b?pvs=4)
-|STM32을 사용해 Sound 발생| |[7월 10일](https://www.notion.so/0711-ffp-8980d456e1db4564b817b901a9475dce?pvs=4)
-|이름 출력, fft 학습| |[7월 11일](https://www.notion.so/0708-1-4edf04650d02401dbe605e1b3134951b?pvs=4)
-|fft, I2C, Custom font 실습| |[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
+|STM32을 사용해 Sound 발생|https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/Sound_0710|[7월 10일](https://www.notion.so/0711-ffp-8980d456e1db4564b817b901a9475dce?pvs=4)
+|이름 출력, fft 학습|https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/Peripheral_0711|[7월 11일](https://www.notion.so/0708-1-4edf04650d02401dbe605e1b3134951b?pvs=4)
+|fft, I2C, Custom font 실습|https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/FFT_I2C_Font_0712|[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
 
 
 ### ⭐ S/W 아키텍처 (2024.07.15 ~ 07.19)
@@ -74,7 +74,7 @@
 |컴파일, gcc, 디버깅| |[7월 16일](https://www.notion.so/0716-gcc-73ed647d5c204c9b803068a8ac79fe91?pvs=4)
 |서버, 클라이언트 기반 소켓 통신| |[7월 17일](https://www.notion.so/0717-4f6c79cbd7e7438ca2ce1c73bec5ba94?pvs=4)
 |samba, nfs 연결 후 통신 실습| |[7월 18일](https://www.notion.so/0718-fa4ff7a2a5624de89e1b826903814888?pvs=4)
-|MYSQL 실습| |테스트3|[7월 19일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
+|MYSQL 실습| |[7월 19일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
 
 
 ### ⭐ Edge 디바이스 리눅스 BSP (2024.07.22 ~ 08.14)
