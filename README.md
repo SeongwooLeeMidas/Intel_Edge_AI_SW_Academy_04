@@ -7,11 +7,17 @@
 ### ✅ 교육 정리
 |Content|Git|Day-Notion|
 |------|---|---|
-|HW, SW 개념 학습|X|[03/06](https://mixed-makeup-d9d.notion.site/C-C-Python-8789db5651274022ad86fdcdcf4909ed?pvs=4)|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|HW, SW 개념 학습|X|[3월 6일](https://mixed-makeup-d9d.notion.site/C-C-Python-8789db5651274022ad86fdcdcf4909ed?pvs=4)|
+|가상환경 리눅스에서 C 실습|X|[3월 7일](https://www.notion.so/3-7-C-d5ca894b57ae42cb98d085528a4c94ab)|
+|if, switch문 실습|X|[3월 8일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 11일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 12일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 13일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 14일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 15일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|if, switch문 실습|X|[3월 18일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
 
-### ✅ 프로젝트
+### ✅ 프로젝트(3월 19일 발표)
 - 절차지향 언어인 C 기반으로 제작한 [GrayScale Image Processing](https://github.com/Seongwoo-Lee97/Image_Processing_Project_Intel_04/blob/fd3cf4b9fbb5132edd8f759c862ba9a99df41667/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.c)
 
 
