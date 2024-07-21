@@ -64,7 +64,7 @@
 |STM32 UART 학습| |[7월 9일](https://www.notion.so/0710-STM-Sound-f4c5e413cfbf495c9e196142dc33d62b?pvs=4)
 |STM32을 사용해 Sound 발생|https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/Sound_0710|[7월 10일](https://www.notion.so/0711-ffp-8980d456e1db4564b817b901a9475dce?pvs=4)
 |이름 출력, fft 학습|https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/Peripheral_0711|[7월 11일](https://www.notion.so/0708-1-4edf04650d02401dbe605e1b3134951b?pvs=4)
-|fft, I2C, Custom font 실습|[](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/FFT_I2C_Font_0712)|[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
+|fft, I2C, Custom font 실습|[FFT_I2C_Font](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/FFT_I2C_Font_0712)|[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
 
 
 ### ⭐ S/W 아키텍처 (2024.07.15 ~ 07.19)
