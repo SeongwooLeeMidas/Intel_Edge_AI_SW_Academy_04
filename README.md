@@ -70,7 +70,7 @@
 |fft, I2C, Custom font 실습|[FFT_I2C_Font](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/FFT_I2C_Font_0712)|[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
 
 
-### ⭐ S/W 아키텍처 (2024.07.15 ~ 07.19)
+### ⭐ S/W 아키텍처 (2024.07.15 ~ 07.26)
 |Project|Git|Notion|
 |------|---|---|
 |C 포인터, 배열| |[7월 15일](https://www.notion.so/0715-3684f92f5fbd4fceae3df6a5ab65d3c0?pvs=4)
@@ -78,9 +78,13 @@
 |서버, 클라이언트 기반 소켓 통신| |[7월 17일](https://www.notion.so/0717-4f6c79cbd7e7438ca2ce1c73bec5ba94?pvs=4)
 |samba, nfs 연결 후 통신 실습| |[7월 18일](https://www.notion.so/0718-fa4ff7a2a5624de89e1b826903814888?pvs=4)
 |MYSQL 실습| |[7월 19일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
+|아두이노 모듈 실습| |[7월 22일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
+|블루투스 모듈 실습| |[7월 23일]
+|IoT 미니 프로젝트| |[7월 24일]
+|Timer 실습 및 IoT 미니 프로젝트| |[7월 25일]
 
 
-### ⭐ Edge 디바이스 리눅스 BSP (2024.07.22 ~ 08.14)
+### ⭐ Edge 디바이스 리눅스 BSP (2024.08.05 ~ 08.14)
 
 ### ⭐ GUI 프레임워크 (2024.08.19 ~ 08.30)
 
