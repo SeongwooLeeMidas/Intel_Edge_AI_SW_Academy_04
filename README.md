@@ -154,7 +154,7 @@
 |Project|Git|Day-Notion|
 |------|---|---|
 |GPIO 핀 조절|[GPIO Pin Control](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_PIN_0805)|[8월 5일](https://www.notion.so/08-05-GPIO-9eecf8fd848345f984bc0f01f8d8bc1a)
-|어셈블리어로 GPIO 제어|GPIO Control in Assembly](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_Assembly_0806)|[8월 6일](https://www.notion.so/08-06-GPIO-658ce735acd54857b601e7b3b8e867ea?pvs=25)
+|어셈블리어로 GPIO 제어|[GPIO Control in Assembly](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_Assembly_0806)|[8월 6일](https://www.notion.so/08-06-GPIO-658ce735acd54857b601e7b3b8e867ea?pvs=25)
 |ARM 이론|X|[8월 7일 (1)](https://www.notion.so/08-07-ARM-a6c70c4a094c42d8a21699957107e6d7?pvs=25)
 |U-Boot 실습|[Make U-Boot](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/U-Boot_make_0807)|[8월 7일 (2)](https://www.notion.so/08-07-U-Boot-7bc64e2d3ae84dabb6b1da18f35fb62f?pvs=25)
 |GPIO LED BUTTON 제어|[GPIO_LED_BUTTON](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_LED_Button_0808)|[8월 8일](https://www.notion.so/08-08-GPIO_LED_PIN-abbb1b7eedfe4339ac2a77249070fd6c?pvs=25)
