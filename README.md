@@ -48,7 +48,18 @@
   
 ---
 
-### ⭐ 펌웨어 프로그래밍 (2024.04.05 ~ 04.18)
+## ⭐ 펌웨어 프로그래밍 (2024.04.05 ~ 04.18)
+### ✅ 교육 정리
+|Content|Git|Day-Notion|
+|------|---|---|
+|0408|[0408](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0408)|X|
+|0409|[0409](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0409)|X|
+|0411|[0411](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0411)|X|
+|0412|[0412](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0412)|X|
+|0415|[0415](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0415)|X|
+|0416|[0416](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0416)|X|
+|0417|[0417](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0417)|X|
+|0418|[0418](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Firmware%20Programming/0418)|X|
 
 ---
 
