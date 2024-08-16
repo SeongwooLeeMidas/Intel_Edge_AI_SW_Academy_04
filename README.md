@@ -154,7 +154,7 @@
 |samba, nfs 연결 후 통신 실습|X|[7월 18일](https://www.notion.so/0718-fa4ff7a2a5624de89e1b826903814888?pvs=4)
 |아두이노 세팅 및 MYSQL 학습|[Arduino Study](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0719_Arduino)|[7월 19일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
 |와이파이 모듈 실습|[Arduino Wifi Module](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0722_Arduino_Wifi)|[7월 22일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
-|블루투스 모듈 실습|[Arduino Bluetooth Module](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0723_Arduino_Bluetooth)|[7월 23일]
+|블루투스 모듈 실습|[Arduino Bluetooth Module](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0723_Arduino_Bluetooth)[7월 23일](https://www.notion.so/0723-8cf3ae6eb2594184800b2f817214cf58?pvs=25)
 
 ### ✅ 미니 프로젝트
 - [스마트 빛 공해 방지 시스템 - Github](https://github.com/SeongwooLeeMidas/Smart_Light_Pollution_Prevention_System_IoT_Mini_Project.git)
@@ -164,7 +164,7 @@
 
 ---
 
-## ⭐ Edge 디바이스 리눅스 BSP (2024.08.05 ~ 08.14)
+## ⭐ Edge 디바이스 리눅스 BSP (2024.08.05 ~ 08.23)
 |Project|Git|Day-Notion|
 |------|---|---|
 |GPIO 핀 조절|[GPIO Pin Control](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_PIN_0805)|[8월 5일](https://www.notion.so/08-05-GPIO-9eecf8fd848345f984bc0f01f8d8bc1a)
@@ -172,7 +172,7 @@
 |ARM 이론|X|[8월 7일 (1)](https://www.notion.so/08-07-ARM-a6c70c4a094c42d8a21699957107e6d7?pvs=25)
 |U-Boot 실습|[Make U-Boot](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/U-Boot_make_0807)|[8월 7일 (2)](https://www.notion.so/08-07-U-Boot-7bc64e2d3ae84dabb6b1da18f35fb62f?pvs=25)
 |GPIO LED BUTTON 제어|[GPIO_LED_BUTTON](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/GPIO_LED_Button_0808)|[8월 8일](https://www.notion.so/08-08-GPIO_LED_PIN-abbb1b7eedfe4339ac2a77249070fd6c?pvs=25)
-|커널 드라이버 업그레이드|[Kernel Driver Upgrade](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/Kernel_Upgrade_0809)|[7월 12일]((https://www.notion.so/08-09-698bff1c3af94877a6ccab5166938269?pvs=25))
+|커널 드라이버 업그레이드|[Kernel Driver Upgrade](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/Kernel_Upgrade_0809)|[8월 9일](https://www.notion.so/08-09-698bff1c3af94877a6ccab5166938269?pvs=25)
 |시스템 콜 제작|[Making System Call](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/Make_System_Call_0812)|[8월 12일](https://www.notion.so/08-12-6e1d175d672e4f5181cc19f3b4e7f048?pvs=25)
 |시스템 콜을 이용한 LED, BUTTON 제어|[System Call with System Function](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Linux_BSP/0813_Syscall_SysFunc)|[8월 13일](https://www.notion.so/08-13-LED-bc86848c08f347f393cef45bb27235f8?pvs=25)
 |Yocto 프로젝트, 루트 파일 시스템|X|[8월 14일](https://www.notion.so/08-14-File-System-70dc3aa52958466b9617a4f84dfc281e?pvs=25)
