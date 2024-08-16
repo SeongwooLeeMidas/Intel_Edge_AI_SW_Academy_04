@@ -50,8 +50,21 @@
 
 ### ⭐ 펌웨어 프로그래밍 (2024.04.05 ~ 04.18)
 
-### ⭐ 비전과 AI 머신러닝 (2024.04.19 ~ 05.09)
-
+## ⭐ 비전과 AI 머신러닝 (2024.04.19 ~ 05.09)
+### ✅ 교육 정리
+|Content|Git|Day-Notion|
+|------|---|---|
+|야구 게임, 파이썬 코드|X|[4월 22일](https://mixed-makeup-d9d.notion.site/C-C-Python-8789db5651274022ad86fdcdcf4909ed?pvs=4)|
+|데이터 처리, 분석 라이브러리|X|[4월 23일](https://www.notion.so/3-7-C-d5ca894b57ae42cb98d085528a4c94ab)|
+|미세먼지 농도 분석|X|[4월 24일](https://www.notion.so/3-8-if-switch-b39d2047a4cc469eb0340426c3353dcb)
+|분류 모델 학습|[Data Types and Arrays](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/Image_Processing/0311)|[4월 25일](https://www.notion.so/3-11-9a7301d36d9444a6bcd949507dc87ee8?pvs=4)
+|회귀 분석과 군집화|[Text and Pixel Processing](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/Image_Processing/0312)|[4월 26일](https://www.notion.so/3-12-4427cbc127d44ce88973779d1fd88927?pvs=4)
+|심장병 예측 등 딥러닝 학습|[Pointer and Dynamic Memory](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/Image_Processing/0313)|[4월 29일](https://www.notion.so/3-13-940e7129831f4b2ba7363510471fabf7?pvs=4)
+|이미지 처리와 OpenCV|[Gemortic Processing](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/Image_Processing/0314)|[4월 30일](https://www.notion.so/3-14-076cec81a3a045398f35dea735518299?pvs=4)
+|kNN, SVM, CNN|X|[5월 7일](https://www.notion.so/3-15-6b3dbb5c4ca8433283b5574766ec2c16?pvs=4)
+|이진 분류 및 다중 분류|[Binary and Multiclass Classifciation]|[5월 8일](https://mixed-makeup-d9d.notion.site/0508-ad4e54cb2b1a4491bf9b8496234e0c3e?pvs=4)
+|객체 탐지|[Object Detection]|[5월 9일](https://mixed-makeup-d9d.notion.site/0509-d954cb05f87c4b4e8e5e01e5e7e02325?pvs=4)
+|시멘틱 세그멘테이션|[Semantic Segmentation]|[5월 10일](https://mixed-makeup-d9d.notion.site/0510-d16a6b8af8a14e72853200a50b5443e7?pvs=4)
 ### ⭐ 인텔 AI 비젼 개발 (2024.05.10 ~ 05.22)
 
 ### ⭐ 리눅스서버1 (2024.05.22)
