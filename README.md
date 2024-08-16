@@ -59,13 +59,13 @@
 |야구 게임|X|[4월 22일](https://mixed-makeup-d9d.notion.site/0422-f971ad260f4748789a9f00a033490bc3?pvs=4)
 |데이터 처리, 분석 라이브러리|X|[4월 23일](https://mixed-makeup-d9d.notion.site/0423-43040f47b55e44fa93000e3dfe2f2db9?pvs=4)
 |미세먼지 농도 분석|X|[4월 24일](https://mixed-makeup-d9d.notion.site/0424-6ff897bfc4934edb965088abc80ddfe4?pvs=4)
-|분류 모델 학습|X)|[4월 25일](https://mixed-makeup-d9d.notion.site/0425-16a893cf84f84c5dac708ed101976562?pvs=4)
+|분류 모델 학습|X|[4월 25일](https://mixed-makeup-d9d.notion.site/0425-16a893cf84f84c5dac708ed101976562?pvs=4)
 |회귀 분석과 군집화|X|[4월 26일](https://mixed-makeup-d9d.notion.site/0426-ac9786df35814d8086468800777fa6d8?pvs=4)
 |심장병 예측 등 딥러닝 학습|X|[4월 29일](https://mixed-makeup-d9d.notion.site/0429-b0b35d884b704dceb669ee4c47a2139b?pvs=4)
 |이미지 처리와 OpenCV|X|[4월 30일](https://mixed-makeup-d9d.notion.site/OpenCV-0430-e62ddd332036406a86edb80ce7ad62a2?pvs=4)
 |kNN, SVM, CNN|X|[5월 7일](https://mixed-makeup-d9d.notion.site/kNN-SVM-CNN-0507-0f9ec9ae29e3427b80f252b8cef647b4?pvs=4)
 |이진 분류 및 다중 분류|X|[5월 8일](https://mixed-makeup-d9d.notion.site/0508-ad4e54cb2b1a4491bf9b8496234e0c3e?pvs=4)
-|객체 탐지|[X]|[5월 9일](https://mixed-makeup-d9d.notion.site/0509-d954cb05f87c4b4e8e5e01e5e7e02325?pvs=4)
+|객체 탐지|X|[5월 9일](https://mixed-makeup-d9d.notion.site/0509-d954cb05f87c4b4e8e5e01e5e7e02325?pvs=4)
 |시멘틱 세그멘테이션|X|[5월 10일](https://mixed-makeup-d9d.notion.site/0510-d16a6b8af8a14e72853200a50b5443e7?pvs=4)
 
 ---
