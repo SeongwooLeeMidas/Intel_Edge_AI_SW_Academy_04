@@ -17,7 +17,7 @@
 |히스토그램 처리|[Histogram](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/Image_Processing/0315)|[3월 15일](https://www.notion.so/3-15-6b3dbb5c4ca8433283b5574766ec2c16?pvs=4)
 |화소 영역 처리|[Pixel Region Processing](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Image_Processing/0318)|[3월 18일](https://www.notion.so/3-18-c3e0eb1c883b408e811a8e475a08296b?pvs=4)
 
-### ✅ 프로젝트
+### ✅ 미니 프로젝트
 - 절차지향 언어인 C 기반으로 제작한 [GrayScale Image Processing - Github](https://github.com/Seongwoo-Lee97/Image_Processing_Project_Intel_04/blob/fd3cf4b9fbb5132edd8f759c862ba9a99df41667/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.c)
 - OpenCV 없이 C 언어 기반으로 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Grayscale을 활용해 다양한 알고리즘 구현
 - 3월 19일 발표 실시
@@ -37,7 +37,7 @@
 |Color Image Processing 제작|[Color Image Processing](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/Image_Processing/0401)|[4월 1일](https://www.notion.so/4-1-Color-Image-Processing-1e7e9213d542458383b4072ab3039fab?pvs=4)
 
 
-### ✅ 프로젝트
+### ✅ 미니 프로젝트
 - 객체지향 언어인 파이썬 기반으로 제작한 [Grayscale Image Processing - Github](https://github.com/SeongwooLeeMidas/Image_Processing_Project_Intel_04/blob/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_Ver1.0_%EC%8A%A4%ED%95%80%EC%98%A4%ED%94%84_%EC%9D%B4%EC%84%B1%EC%9A%B0_%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.py)
 - OpenCV 없이 C 언어 기반으로 이미지를 변환해 이미지 처리를 쉽게 해주는 기술인 Grayscale을 활용해 다양한 알고리즘 구현
 - 3월 22일 스핀오프 버전으로 제출, 발표 미실시
@@ -64,9 +64,9 @@
 |심장병 예측 등 딥러닝 학습|X|[4월 29일](https://mixed-makeup-d9d.notion.site/0429-b0b35d884b704dceb669ee4c47a2139b?pvs=4)
 |이미지 처리와 OpenCV|X|[4월 30일](https://mixed-makeup-d9d.notion.site/OpenCV-0430-e62ddd332036406a86edb80ce7ad62a2?pvs=4)
 |kNN, SVM, CNN|X|[5월 7일](https://mixed-makeup-d9d.notion.site/kNN-SVM-CNN-0507-0f9ec9ae29e3427b80f252b8cef647b4?pvs=4)
-|이진 분류 및 다중 분류|[Binary and Multiclass Classifciation]|[5월 8일](https://mixed-makeup-d9d.notion.site/0508-ad4e54cb2b1a4491bf9b8496234e0c3e?pvs=4)
-|객체 탐지|[Object Detection]|[5월 9일](https://mixed-makeup-d9d.notion.site/0509-d954cb05f87c4b4e8e5e01e5e7e02325?pvs=4)
-|시멘틱 세그멘테이션|[Semantic Segmentation]|[5월 10일](https://mixed-makeup-d9d.notion.site/0510-d16a6b8af8a14e72853200a50b5443e7?pvs=4)
+|이진 분류 및 다중 분류|X|[5월 8일](https://mixed-makeup-d9d.notion.site/0508-ad4e54cb2b1a4491bf9b8496234e0c3e?pvs=4)
+|객체 탐지|[X]|[5월 9일](https://mixed-makeup-d9d.notion.site/0509-d954cb05f87c4b4e8e5e01e5e7e02325?pvs=4)
+|시멘틱 세그멘테이션|X|[5월 10일](https://mixed-makeup-d9d.notion.site/0510-d16a6b8af8a14e72853200a50b5443e7?pvs=4)
 
 ---
 
@@ -92,7 +92,7 @@
 |리눅스 기본 설정|X|X|
 |리눅스, 깃허브 사용법|X|[5월 24일](https://mixed-makeup-d9d.notion.site/0524-ed08718ff12544dc948cb8287bf347e3?pvs=4)
 |Git 실습|X|[5월 27일](https://mixed-makeup-d9d.notion.site/0527-Git-5c61815f46d04a63864eda75167c8faa?pvs=4)
-|AI 개념 학습|X)|[5월 28일](https://mixed-makeup-d9d.notion.site/0528-AI-a59aaea5d4ed4dedaedda99fbc57f3dd?pvs=4)
+|AI 개념 학습|X|[5월 28일](https://mixed-makeup-d9d.notion.site/0528-AI-a59aaea5d4ed4dedaedda99fbc57f3dd?pvs=4)
 |퍼셉트론 & ANN|X|[5월 29일](https://mixed-makeup-d9d.notion.site/0529-ANN-6584391fdf264d6eacea4def63fe4f87?pvs=4)
 |CNN|X|X|
 |AI MATH|X|X|
@@ -102,7 +102,7 @@
 ---
 
 ## ⭐ 인텔 엣지 AI 실무 프로젝트(2024.06.10 ~ 07.03)
-### ✅ 프로젝트
+### ✅ 미니 프로젝트
 - [OpenVINO 기반 객체 탐지 및 근접도 판별 시스템 - Github](https://github.com/kccistc/intel-04/tree/main/class01/mini-project/08_seongwoo,yoonwoo)
 - [시연 영상 - Youtube](https://youtu.be/jFIS4iW5DMc)
 - 웹캠으로 가장 가까운 사람을 탐지하고, 센터 좌표를 이용해 어떠한 객체가 가장 앞서있는지 근접도를 판별하여 레이저를 발사하는 시스템
@@ -132,6 +132,7 @@
 |이름 출력, fft 학습|[Peripheral](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/Peripheral_0711)|[7월 11일](https://www.notion.so/0708-1-4edf04650d02401dbe605e1b3134951b?pvs=4)
 |fft, I2C, Custom font 실습|[FFT_I2C_Font](https://github.com/SeongwooLeeMidas/Intel_04_academy/tree/main/STM32_Firmware_Control/FFT_I2C_Font_0712)|[7월 12일](https://www.notion.so/0712-fft-I2C-Custom-Font-3cd2e071dfce4539afb91f9ff0df097b?pvs=4)
 
+---
 
 ## ⭐ S/W 아키텍처 (2024.07.15 ~ 07.26)
 |Project|Git|Day-Notion|
@@ -144,11 +145,13 @@
 |와이파이 모듈 실습|[Arduino Wifi Module](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0722_Arduino_Wifi)|[7월 22일](https://www.notion.so/0719-mysql-9ab94771de90420598cf98659c3cbaa7?pvs=4)
 |블루투스 모듈 실습|[Arduino Bluetooth Module](https://github.com/SeongwooLeeMidas/Intel_Edge_AI_SW_Academy_04/tree/main/SW_Architecture/0723_Arduino_Bluetooth)|[7월 23일]
 
-### ✅ 프로젝트
+### ✅ 미니 프로젝트
 - [스마트 빛 공해 방지 시스템 - Github](https://github.com/SeongwooLeeMidas/Smart_Light_Pollution_Prevention_System_IoT_Mini_Project.git)
 - [스마트 빛 공해 방지 시스템 - Notion](https://mixed-makeup-d9d.notion.site/8f011c5eb08d440ba6a0829c53bfeead?pvs=4)
 - 온도와 조도 센서를 통해 밤에 자동으로 커튼을 내려 식물의 빛 공해를 방지하고, 다양한 기기에서 서버에 접속해 다른 클라이언트 및 하드웨어와 실시간으로 통신할 수 있는 스마트 홈 IoT 시스템입니다.
 - 7/23 ~ 7/26 프로젝트 진행 후 발표
+
+---
 
 ## ⭐ Edge 디바이스 리눅스 BSP (2024.08.05 ~ 08.14)
 |Project|Git|Day-Notion|
